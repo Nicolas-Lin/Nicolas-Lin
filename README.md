@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicolas!
 - 👀 I’m interested in Business Analytics, Artificial Intelligence and Internet of Things (IOT).
-- 🌱 I’m currently studying in TARUMT, Malaysia (BCompSc Hons in Data Science).
+- 🌱 I’m currently studying Bachelor in Data Science @ TARUMT, Malaysia.
 - 💞️ I’m looking to collaborate in the future!
 - 📫 You can reach me through Instagram, LinkedIn etc.
 
